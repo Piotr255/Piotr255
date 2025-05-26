@@ -9,6 +9,8 @@ I'm a third year computer science student at AGH in Cracow. Currently, I'm activ
 [![My Skills](https://skillicons.dev/icons?i=elixir,haskell,rust,fastapi,jest,nextjs,rabbitmq,raspberrypi,reactivex)](https://skillicons.dev)
 ## 🛠 Tools & Environments
 [![My Skills](https://skillicons.dev/icons?i=git,md,cmake,bash,docker,vscode,clion,idea,figma,github,gradle,maven,vite,linux,ubuntu,npm,pnpm,postman)](https://skillicons.dev)
+## 💾 Stats   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piotr255&theme=dark)
 <!--
 **Piotr255/Piotr255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
