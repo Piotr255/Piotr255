@@ -1,5 +1,14 @@
 ## Hi there 👋
+I'm a third year computer science student at AGH in Cracow. Currently, I'm actively looking for an internship opportunity. I'm passionate about technology and always eager to take on new challenges.
 
+## 💼 Proficient With
+[![My Skills](https://skillicons.dev/icons?i=js,ts,express,prisma,react,java,sql)](https://skillicons.dev)
+## 🌀 Familiar With
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,css,tailwind,bootstrap,hibernate,spring,mongodb,nodejs,postgres)](https://skillicons.dev)
+## 🧪 Experimented With or Learning
+[![My Skills](https://skillicons.dev/icons?i=elixir,haskell,rust,fastapi,jest,nextjs,rabbitmq,raspberrypi,reactivex)](https://skillicons.dev)
+## 🛠 Tools & Environments
+[![My Skills](https://skillicons.dev/icons?i=git,md,cmake,bash,docker,vscode,clion,idea,figma,github,gradle,maven,vite,linux,ubuntu,npm,pnpm,postman)](https://skillicons.dev)
 <!--
 **Piotr255/Piotr255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
